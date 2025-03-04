@@ -27,13 +27,8 @@
             break; // Encerra o loop do...while
         }
 
-        // Operações aritméticas básicas
-        $a = 1 + 0 - 1; // $a = 0
-        $b = 0 + 0; // $b = 0
-                
+                        
         echo "Resultados:<br>";
-        echo "1 + 0 - 1 = $a<br>";
-        echo "0 + 0 = $b<br>";
         echo "Valor de \$d = $d<br>";
         
         // Verificar o primeiro resultado
