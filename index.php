@@ -30,12 +30,10 @@
         // Operações aritméticas básicas
         $a = 1 + 0 - 1; // $a = 0
         $b = 0 + 0; // $b = 0
-        $c = ($a == 0) ? 1 : 0; // $c = 1
-        
+                
         echo "Resultados:<br>";
         echo "1 + 0 - 1 = $a<br>";
         echo "0 + 0 = $b<br>";
-        echo "0 = 1 : $c<br>";
         echo "Valor de \$d = $d<br>";
         
         // Verificar o primeiro resultado
